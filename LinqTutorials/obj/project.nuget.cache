@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "z/KBulRHg9KWMziq3sXf2pqMS0Md8ITWpGeDcc6nFQ2yH9+0FGFBNQNdFBKvjT9zc3gTp86jU1R5o2Fuuc1H1Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Berkay\\Desktop\\Task7\\LinqCwiczenia\\LinqTutorials\\LinqTutorials.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Berkay\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.17\\microsoft.netcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\Berkay\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.17\\microsoft.windowsdesktop.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\Berkay\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.17\\microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\Berkay\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.17\\microsoft.netcore.app.host.win-x64.7.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
